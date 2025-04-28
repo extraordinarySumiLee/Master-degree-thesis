@@ -1,4 +1,2 @@
-This repository contains the Jupyter Notebook files used in my master's thesis,
-"Statistical Analysis of Observed Binary Black Holes."
-
-In this work, the truncated power-law (TPL) model is quantitatively compared to the observed binary black holes (BBHs) documented in GWTC-1 to GWTC-3, using the Kolmogorov–Smirnov (KS) test.
+This repository contains Jupyter Notebook files that were utilized for the analysis presented in my master's thesis titled "Statistical Analysis of Observed Binary Black Holes."
+The thesis investigates the agreement between the truncated power-law (TPL) model and the observed primary mass distributions of binary black holes (BBHs) listed in GWTC-1, GWTC-2, GWTC-2.1, and GWTC-3, employing the Kolmogorov–Smirnov (KS) test.
